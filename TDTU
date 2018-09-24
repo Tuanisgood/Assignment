@@ -1,5 +1,5 @@
 class TDTU{
   public static void main(String[] args){
-  System.out.println("Hello world i am TDTU";
+  System.out.println("Hello world this is TDTU";
   }
 }
