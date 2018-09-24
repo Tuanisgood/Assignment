@@ -1,5 +1,9 @@
+import java.util.Scanner;
+
 class test{
 	public static void main (String[] args){
-		System.out.println("Hello World");
+		Scanner sc = new Scanner(System.in);
+                String n = sc.nextLine();
+                System.out.printf("Hello World my name is "+n);
 	}
 }
